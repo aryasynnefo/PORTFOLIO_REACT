@@ -12,7 +12,7 @@ const Links = () => {
               LinkedIn <FaLinkedin size={30} />
             </>
           ),
-          href: "https://linkedin.com",
+          href: "https://www.linkedin.com/in/arya-ab-94a35a2ab/",
           style: "rounded-tr-md",
         },
         {
@@ -31,7 +31,7 @@ const Links = () => {
               Mail <HiOutlineMail size={30} />
             </>
           ),
-          href: "mailto:arya@gmail.com",
+          href: "mailto:aryabalachandran20@gmail.com",
         },
         {
           id: 4,
