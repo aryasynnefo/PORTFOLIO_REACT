@@ -8,11 +8,13 @@ const About = () => {
                 <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
             </div>
 
-            <p className='text-xl mt-20'>
-               Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam aliquid aperiam atque. Aspernatur nisi, at quibusdam delectus cum esse sunt quam ratione. Exercitationem sunt beatae iste perspiciatis? Officiis, obcaecati. Enim minima excepturi amet alias, atque accusamus neque optio itaque nulla nam suscipit fugit, facere rerum, eligendi cumque consequatur laboriosam cupiditate?
+            <p className='text-xl text-justify mt-20'>
+            Passionate MERN Stack Developer with a knack for crafting robust, user-centric web applications. As a recent graduate/intern, I bring fresh enthusiasm and a hunger to learn and contribute to dynamic projects. My journey into the world of development began with a fascination for how technology empowers businesses and individuals alike, driving me to specialize in the MERN (MongoDB, Express.js, React.js, Node.js) stack—a powerful toolkit for building scalable, modern web applications.
             </p>
             <br />
-            <p className='text-xl'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit odio esse libero, nulla vel aperiam aliquid mollitia ea corporis nostrum quis odit iusto ipsam sit a error. Commodi nisi tenetur expedita nam assumenda soluta, id perspiciatis fugiat adipisci saepe quis quidem dicta provident deserunt ab! Suscipit sed harum sequi distinctio.</p>
+            <p className='text-xl text-justify'>Proficient in frontend technologies like React.js, where I excel in crafting intuitive user interfaces that seamlessly translate design into code. Backed by a strong foundation in backend development with Node.js and Express.js, I'm adept at building robust APIs and server-side applications. My understanding of MongoDB enables me to design efficient database schemas, ensuring optimal performance and scalability for applications.</p>
+            <br />
+            <p className='text-xl text-justify'>Eager to further hone my skills and stay updated with the latest trends and technologies in web development, I am committed to continuous learning and growth. I thrive in collaborative environments where I can leverage my problem-solving skills and creativity to overcome challenges and deliver innovative solutions.</p>
         </div>
     </div>
   )
